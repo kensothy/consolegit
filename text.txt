@@ -1,1 +1,12 @@
-this is test console
+A1 Basiskennis
+
+Naam: Sothy Ken
+Opdracht 1:
+Titel: Getallenkennis – talstelsels
+
+1.Maak volgende getalomzettingen:
+a.(A3E0)16 			=	(121740)8
+b.(111001,011)2 		=	(57,375)10
+c.(1438)10			=	(2636)8
+d.(2654,1875)10		=	(1010  0101  1110, 0011)2
+(56762)8			=	(24050)10this is test console
